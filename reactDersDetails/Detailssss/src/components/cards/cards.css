@@ -1,0 +1,14 @@
+img{
+    max-width: 100px;
+}
+.cardBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    gap: 10px;
+}
+.card{
+    border: 1px solid black;
+}
+button{
+    border: 1px solid black;
+}
